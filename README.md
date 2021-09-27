@@ -25,3 +25,8 @@ I am currently studying, BS Computer Science.
 * PHP
 * Django ( Python Framework )
 * JavaScript
+
+# Current Repository
+
+All the repository I am posting right now is just a prototype or for portfolio purposes, I just want to enlighten you about my capacity in terms of programming.
+So you can see some projects like Chess game, flappy bird, tic tac toe, simple calculator and more.
