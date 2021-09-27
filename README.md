@@ -18,6 +18,7 @@ I want to save all of my project here that is not game related.
 You can contact me at. raymart.sarmiento23@outlook.com
 
 I am currently studying, BS Computer Science.
+Right now I plan to be Software Developer or a Game Developer. and afterwards I'll post a little portfolio about myself in my own website.
 
 # Languages that I plan to study
 
