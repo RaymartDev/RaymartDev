@@ -38,3 +38,4 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 * C# ( 1 year  ( Used in unity game development tool ) )
 * HTML and CSS ( 1 year )
 * PHP ( 1 year )
+* Database used ( MySQL, Redis, MongoDB, SQLite )
