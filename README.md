@@ -31,3 +31,10 @@ Right now I plan to be Software Developer or a Game Developer. and afterwards I'
 
 All the repository I am posting right now is just a prototype or for portfolio purposes, I just want to enlighten you about my capacity in terms of programming.
 So you can see some projects like Chess game, flappy bird, tic tac toe, simple calculator and more.
+
+# Skillsets
+
+* Java ( 8 years ( 4 years of professionalism and 4 years as a hobby just like indicated above ) )
+* C# ( 1 year  ( Used in unity game development tool ) )
+* HTML and CSS ( 1 year )
+* PHP ( 1 year )
