@@ -26,6 +26,7 @@ Right now I plan to be Software Developer or a Game Developer. and afterwards I'
 * PHP
 * Django ( Python Framework )
 * JavaScript
+* C++
 
 # Current Repository
 
