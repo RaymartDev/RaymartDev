@@ -1,6 +1,6 @@
 # Brief Introduction
 
-- 👋 Hi, I’m @RaymartDev
+- 👋 Hi, I’m @RaymartDev ( Raymart Sarmiento )
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Python
 - 📫 How to reach me -> raymart.sarmiento23@outlook.com
