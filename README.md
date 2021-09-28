@@ -13,7 +13,7 @@ I'm 21 years old, currently residing at Philippines. I'm currently studying just
 This is just my new github, and this is what I use for game plugin materials:
 * [_PandaDevX Github_](https://github.com/PandaDevX)
 
-I want to save all of my project here that is not game related.
+I want to save all of my project here that is a standalone projects and not game related.
 
 You can contact me at. raymart.sarmiento23@outlook.com
 
