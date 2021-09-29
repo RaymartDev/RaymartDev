@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @RaymartDev ( Raymart Sarmiento )
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Python
+- 🌱 I’m jack of all trades
 - 📫 How to reach me -> raymart.sarmiento23@outlook.com
 
 
