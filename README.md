@@ -39,3 +39,4 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 * HTML and CSS ( 1 year )
 * PHP ( 1 year )
 * Database used ( MySQL, Redis, MongoDB, SQLite )
+* JavaScript ( 2 years )
