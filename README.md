@@ -18,14 +18,13 @@ I want to save all of my project here that is a standalone projects and not game
 You can contact me at. raymart.sarmiento23@outlook.com
 
 I am currently studying, BS Computer Science.
-Right now I plan to be Software Developer or a Game Developer. and afterwards I'll post a little portfolio about myself in my own website.
+Right now I am studying MERN Stack going 2 years now, I now have a strong knowledge for backend ( node js / express ) and frontend ( React / vite ).
 
 # Languages that I plan to study
 
 * Python
 * PHP
 * Django ( Python Framework )
-* JavaScript
 * C++
 
 # Current Repository
