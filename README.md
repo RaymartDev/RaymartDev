@@ -40,3 +40,7 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 * PHP ( 1 year )
 * Database used ( MySQL, Redis, MongoDB, SQLite )
 * JavaScript ( 2 years )
+
+# Job status
+
+I am currently working as a data analyst going 1 year now in a hospital company.
