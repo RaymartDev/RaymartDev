@@ -48,8 +48,8 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 Currently working as a Contractor and here are my 
 ### Responsibilities:
 
-- Maintenance of Data Warehouse
-- Maintenance of Reporting Server
-- Database Administration
-- Maintenance of Scripts
-- Deliver accurate monthly/yearly reports to Stakeholders
+- Maintenance of Data Warehouse.
+- Maintenance of Reporting Server.
+- Database Administration.
+- Maintenance of Python Scripts or Create necessary script.
+- Deliver accurate monthly/yearly reports to Stakeholders.
