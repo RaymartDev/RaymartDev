@@ -40,8 +40,16 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 * PHP ( 1 year )
 * Database used ( MySQL, MSSQL, PostgreSQL, MongoDB, SQLite )
 * JavaScript/Typescript ( 2 years )
-* Backend Development ( 1 year ( Typescript, Node JS, Prisma - if using relational DB, Zod + MongoDB - if NoSQL ) )
+* Backend Development ( 1 year ( Typescript, Node JS, Prisma - if relational DB, Zod + MongoDB - if NoSQL ) )
 
 # Job status
 
-I am currently working as a data analyst going 1 year now in a hospital company.
+## Company - Comprehensive Community Health Center  ( California, USA )
+Currently working as a Contractor and here are my 
+### Responsibilities:
+
+- Maintenance of Data Warehouse
+- Maintenance of Reporting Server
+- Database Administration
+- Maintenance of Scripts
+- Deliver accurate monthly/yearly reports to Stakeholders
