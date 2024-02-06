@@ -34,12 +34,13 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 
 # Skillsets
 
-* Java ( 8 years ( 4 years of professionalism and 4 years as a hobby just like indicated above ) )
+* Java ( 4 years ( 2 years of professionalism and 2 years as a hobby just like indicated above ) )
 * C# ( 1 year  ( Used in unity game development tool ) )
-* HTML and CSS ( 1 year )
+* Frontend Development ( 1 year ( Typescript, Vite React ) )
 * PHP ( 1 year )
-* Database used ( MySQL, Redis, MongoDB, SQLite )
-* JavaScript ( 2 years )
+* Database used ( MySQL, MSSQL, PostgreSQL, MongoDB, SQLite )
+* JavaScript/Typescript ( 2 years )
+* Backend Development ( 1 year ( Typescript, Node JS, Prisma - if using relational DB, Zod + MongoDB - if NoSQL ) )
 
 # Job status
 
