@@ -36,11 +36,11 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 
 * Java ( 4 years ( 2 years of professionalism and 2 years as a hobby just like indicated above ) )
 * C# ( 1 year  ( Used in unity game development tool ) )
-* Frontend Development ( 1 year ( Typescript, Vite React ) )
+* Frontend Development ( 2 years ( Typescript, Vite React ) )
 * PHP ( 1 year )
 * Database used ( MySQL, MSSQL, PostgreSQL, MongoDB, SQLite )
 * JavaScript/Typescript ( 2 years )
-* Backend Development ( 1 year ( Typescript, Node JS, Prisma - if relational DB, Zod + MongoDB - if NoSQL ) )
+* Backend Development ( 2 years ( Typescript, Node JS, Prisma - if relational DB, Zod + MongoDB - if NoSQL ) )
 
 # Job status
 
