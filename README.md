@@ -42,9 +42,9 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 * JavaScript/Typescript ( 2 years )
 * Backend Development ( 2 years ( Typescript, Node JS, Prisma - if relational DB, Zod + MongoDB - if NoSQL ) )
 
-# Job status
+# Job status | August 2021 - PRESENT
 
-## Company - Comprehensive Community Health Center  ( California, USA | August 2021 - PRESENT )
+## Company - Comprehensive Community Health Center  ( California, USA )
 Currently working as a Contractor and here are my 
 ### Responsibilities:
 
