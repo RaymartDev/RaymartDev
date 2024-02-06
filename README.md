@@ -44,7 +44,7 @@ So you can see some projects like Chess game, flappy bird, tic tac toe, simple c
 
 # Job status
 
-## Company - Comprehensive Community Health Center  ( California, USA )
+## Company - Comprehensive Community Health Center  ( California, USA | August 2021 - PRESENT )
 Currently working as a Contractor and here are my 
 ### Responsibilities:
 
