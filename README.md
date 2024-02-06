@@ -8,7 +8,7 @@
 
 # **About Me**
 
-I was born 2000, currently residing at Philippines. I'm currently studying. But I've been programming java for 4 years now, 2 years for professionalism and 2 years for a hobby.
+I was born 2000, currently residing at Philippines. But I've been programming java for 4 years now, 2 years for professionalism and 2 years for a hobby.
 
 This is just my new github, and this is what I use for game plugin materials:
 * [_PandaDevX Github_](https://github.com/PandaDevX)
