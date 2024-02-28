@@ -1,55 +1,50 @@
-# **Brief Introduction**
+# Brief Introduction
 
-- 👋 Hi, I’m @RaymartDev ( Raymart Sarmiento )
+- 👋 Hi, I’m [@RaymartDev](https://github.com/RaymartDev) (Raymart Sarmiento)
 - 👀 I’m interested in Java
-- 🌱 I’m jack of all trades
-- 📫 How to reach me -> raymart.sarmiento23@outlook.com
+- 🌱 [My Linked In Account](https://www.linkedin.com/in/raymart-sarmiento-lob)
+- 📫 How to reach me: raymart.sarmiento23@outlook.com
 
+# About Me
 
-# **About Me**
+I was born in 2000 and currently reside in the Philippines. I've been programming in Java for 4 years, 2 years professionally and 2 years as a hobby.
 
-I was born 2000, currently residing at Philippines. But I've been programming java for 4 years now, 2 years for professionalism and 2 years for a hobby.
+This is my new GitHub account, primarily used for storing standalone projects unrelated to game development:
+* [PandaDevX GitHub](https://github.com/PandaDevX)
 
-This is just my new github, and this is what I use for game plugin materials:
-* [_PandaDevX Github_](https://github.com/PandaDevX)
+You can also contact me at raymart.sarmiento23@outlook.com.
 
-I want to save all of my project here that is a standalone projects and not game related.
+I am currently pursuing a BS in Computer Science. Additionally, I've been studying the MERN Stack for the past 2 years, gaining strong backend (Node.js/Express) and frontend (React/Vite) knowledge.
 
-You can contact me at. raymart.sarmiento23@outlook.com
-
-I am currently studying, BS Computer Science.
-Right now I am studying MERN Stack going 2 years now, I now have a strong knowledge for backend ( node js / express ) and frontend ( React / vite ).
-
-# Languages that I plan to study
+# Languages I Plan to Study
 
 * Python
 * PHP
-* Django ( Python Framework )
+* Django (Python Framework)
 * C++
 
 # Current Repository
 
-All the repository I am posting right now is just a prototype or for portfolio purposes, I just want to enlighten you about my capacity in terms of programming.
-So you can see some projects like Chess game, flappy bird, tic tac toe, simple calculator and more.
+All the repositories I'm posting here are prototypes or for portfolio purposes. They showcase my programming skills and include projects like Chess game, Flappy Bird, Tic Tac Toe, simple calculator, and more.
 
 # Skillsets
 
-* Java ( 4 years ( 2 years of professionalism and 2 years as a hobby just like indicated above ) )
-* C# ( 1 year  ( Used in unity game development tool ) )
-* Frontend Development ( 2 years ( Typescript, Vite React ) )
-* PHP ( 1 year )
-* Database used ( MySQL, MSSQL, PostgreSQL, MongoDB, SQLite )
-* JavaScript/Typescript ( 2 years )
-* Backend Development ( 2 years ( Typescript, Node JS, Prisma - if relational DB, Zod + MongoDB - if NoSQL ) )
+* Java: 4 years (2 years professionally, 2 years hobby)
+* C#: 1 year (Used in Unity game development)
+* Frontend Development: 2 years (TypeScript, Vite React)
+* PHP: 1 year
+* Databases: MySQL, MSSQL, PostgreSQL, MongoDB, SQLite
+* JavaScript/TypeScript: 2 years
+* Backend Development: 2 years (TypeScript, Node.js, Prisma for relational DB, Zod + MongoDB for NoSQL)
 
-# Job status | August 2021 - PRESENT
+# Job Status | August 2021 - Present
 
-## Company - Comprehensive Community Health Center  ( California, USA )
-Currently working as a Contractor and here are my 
-### Responsibilities:
+## Company: Comprehensive Community Health Center (California, USA)
 
-- Maintenance of Data Warehouse.
-- Maintenance of Reporting Server.
-- Database Administration.
-- Maintenance of Python Scripts or Create necessary script.
-- Deliver accurate monthly/yearly reports to Stakeholders.
+Currently working as a Contractor with the following responsibilities:
+
+- Maintenance of Data Warehouse
+- Maintenance of Reporting Server
+- Database Administration
+- Maintenance and creation of Python scripts
+- Delivering accurate monthly/yearly reports to Stakeholders
