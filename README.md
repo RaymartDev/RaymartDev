@@ -5,7 +5,7 @@
 - 🌱 [My Linked In Account](https://www.linkedin.com/in/raymart-sarmiento-lob)
 - 📫 How to reach me: raymart.sarmiento23@outlook.com
 
-# About Me
+# 💫 About Me:
 
 I was born in 2000 and currently reside in the Philippines. I've been programming in Java for 4 years, 2 years professionally and 2 years as a hobby.
 
