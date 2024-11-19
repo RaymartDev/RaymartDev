@@ -16,17 +16,6 @@ You can also contact me at raymart.sarmiento23@outlook.com.
 
 I am currently pursuing a BS in Computer Science. Additionally, I've been studying the MERN Stack for the past 2 years, gaining strong backend (Node.js/Express) and frontend (React/Vite) knowledge.
 
-# Languages I Plan to Study
-
-* Python
-* PHP
-* Django (Python Framework)
-* C++
-
-# Current Repository
-
-All the repositories I'm posting here are prototypes or for portfolio purposes. They showcase my programming skills and include projects like Chess game, Flappy Bird, Tic Tac Toe, simple calculator, and more.
-
 # Skillsets
 
 * Java: 4 years (2 years professionally, 2 years hobby)
