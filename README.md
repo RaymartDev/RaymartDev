@@ -7,14 +7,14 @@
 
 # 💫 About Me:
 
-I was born in 2000 and currently reside in the Philippines. I've been programming in Java for 4 years, 2 years professionally and 2 years as a hobby.
+I was born in 2000 and currently live in the Philippines. I have 4 years of experience in Java programming, including 2 years as a hobbyist and 2 years professionally.
 
 This is my new GitHub account, primarily used for storing standalone projects unrelated to game development:
 * [PandaDevX GitHub](https://github.com/PandaDevX)
 
 You can also contact me at raymart.sarmiento23@outlook.com.
 
-I am currently pursuing a BS in Computer Science. Additionally, I've been studying the MERN Stack for the past 2 years, gaining strong backend (Node.js/Express) and frontend (React/Vite) knowledge.
+I am currently pursuing a BS in Computer Science and have been specializing in the MERN Stack, developing strong expertise in backend development with Node.js/Express and frontend development with React/Vite.
 
 # Tech
 
