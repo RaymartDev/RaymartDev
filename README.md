@@ -16,15 +16,16 @@ You can also contact me at raymart.sarmiento23@outlook.com.
 
 I am currently pursuing a BS in Computer Science. Additionally, I've been studying the MERN Stack for the past 2 years, gaining strong backend (Node.js/Express) and frontend (React/Vite) knowledge.
 
-# Skillsets
+# Tech
 
-* Java: 4 years (2 years professionally, 2 years hobby)
-* C#: 1 year (Used in Unity game development)
-* Frontend Development: 2 years (TypeScript, Vite React)
-* PHP: 1 year
+* Java
+* C#
 * Databases: MySQL, MSSQL, PostgreSQL, MongoDB, SQLite
-* JavaScript/TypeScript: 2 years
-* Backend Development: 2 years (TypeScript, Node.js, Prisma for relational DB, Zod + MongoDB for NoSQL)
+* JavaScript/TypeScript
+* PHP
+* Python (Pandas, Beautiful Soup)
+* Frontend Development(TypeScript, Vite React, Tailwind)
+* Backend Development (TypeScript, Node.js, Express, PrismaORM, Zod, Mongoose)
 
 # Job Status | August 2021 - Present
 
@@ -32,11 +33,10 @@ I am currently pursuing a BS in Computer Science. Additionally, I've been studyi
 
 Currently working as a Contractor with the following responsibilities:
 
-- Maintenance of Data Warehouse
-- Maintenance of Reporting Server
 - Database Administration
-- Maintenance and creation of Python scripts
-- Delivering accurate monthly/yearly reports to Stakeholders
+- Business Intelligence Developer
+- Data Analyst
+- Web Developmer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LifeonBlack) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raymart-s-lob) 
